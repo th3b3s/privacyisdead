@@ -1,4 +1,4 @@
-#privacy is dead
+# privacy is dead
 
 ![repo size](https://img.shields.io/github/repo-size/th3b3s/privacyisdead)
 
